@@ -1,9 +1,83 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Страница — 1" id="82df2n5Z-5ufJyT0Ab99">
-    <mxGraphModel>
+    <mxGraphModel dx="1877" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="q4oDRhr1eY8X-T4zOa0l-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="q4oDRhr1eY8X-T4zOa0l-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q4oDRhr1eY8X-T4zOa0l-12" value="Уточнённая форма и структура&lt;div&gt;представления данных&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q4oDRhr1eY8X-T4zOa0l-11">
+          <mxGeometry x="-0.7792" y="3" relative="1" as="geometry">
+            <mxPoint x="33" y="-22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q4oDRhr1eY8X-T4zOa0l-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="q4oDRhr1eY8X-T4zOa0l-1" target="q4oDRhr1eY8X-T4zOa0l-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q4oDRhr1eY8X-T4zOa0l-1" value="Уточнение структуры и формы представления данных" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="130" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="q4oDRhr1eY8X-T4zOa0l-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="q4oDRhr1eY8X-T4zOa0l-2" target="q4oDRhr1eY8X-T4zOa0l-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q4oDRhr1eY8X-T4zOa0l-2" value="Разработка структуры программы" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="250" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q4oDRhr1eY8X-T4zOa0l-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="q4oDRhr1eY8X-T4zOa0l-3" target="q4oDRhr1eY8X-T4zOa0l-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q4oDRhr1eY8X-T4zOa0l-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q4oDRhr1eY8X-T4zOa0l-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="580" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q4oDRhr1eY8X-T4zOa0l-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="q4oDRhr1eY8X-T4zOa0l-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="250" as="sourcePoint" />
+            <mxPoint x="361" y="253" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="251" />
+              <mxPoint x="70" y="251" />
+              <mxPoint x="70" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q4oDRhr1eY8X-T4zOa0l-6" value="Утверждённый ЭП" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q4oDRhr1eY8X-T4zOa0l-5">
+          <mxGeometry x="-0.4671" y="1" relative="1" as="geometry">
+            <mxPoint x="-6" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q4oDRhr1eY8X-T4zOa0l-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="q4oDRhr1eY8X-T4zOa0l-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="217" as="sourcePoint" />
+            <mxPoint x="362" y="217" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q4oDRhr1eY8X-T4zOa0l-8" value="Утверждённое ТЗ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q4oDRhr1eY8X-T4zOa0l-7">
+          <mxGeometry x="-0.5571" y="3" relative="1" as="geometry">
+            <mxPoint x="10" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q4oDRhr1eY8X-T4zOa0l-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="q4oDRhr1eY8X-T4zOa0l-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="306" as="sourcePoint" />
+            <mxPoint x="361" y="306" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="307" />
+              <mxPoint x="90" y="307" />
+              <mxPoint x="90" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q4oDRhr1eY8X-T4zOa0l-10" value="Уточняющие данные" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q4oDRhr1eY8X-T4zOa0l-9">
+          <mxGeometry x="-0.4781" relative="1" as="geometry">
+            <mxPoint y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
